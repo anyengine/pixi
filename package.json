@@ -1,10 +1,10 @@
 {
-  "name": "chibiengine",
+  "name": "@anyengine/pixi",
   "version": "0.0.0-dev",
   "description": "Modern Web Game Engine based on PixiJS",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ChibiEngine/ChibiEngine.git"
+    "url": "https://github.com/AnyEngine/pixi.git"
   },
   "scripts": {
     "start": "vite --open"
